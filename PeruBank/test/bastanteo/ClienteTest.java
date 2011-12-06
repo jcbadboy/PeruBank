@@ -7,6 +7,7 @@ import org.junit.Test;
 public class ClienteTest {
 
 	String prueba2 = "Hola";
+	String prueba2 = "Hola34";
 	
 	@Test
 	public void clienteDeberiaCrearseConDatosIniciales(){
@@ -33,3 +34,4 @@ public class ClienteTest {
 		
 	}
 }
+
