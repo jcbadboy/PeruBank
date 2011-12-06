@@ -8,6 +8,7 @@ public class ClienteTest {
 
 	//Modificaciones Luis Pedreros
 	Date fecha;
+	Date fecha32;
 	
 	@Test
 	public void clienteDeberiaCrearseConDatosIniciales(){
