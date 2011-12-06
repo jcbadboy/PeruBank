@@ -6,9 +6,8 @@ import org.junit.Test;
 
 public class ClienteTest {
 
-	//Modificaciones Luis Pedreros
-	Date fecha;
-	Date fecha32;
+	//Modificaciones Luis Pedreros 05122011 - 10:28
+	String prueba = "Final";
 	
 	@Test
 	public void clienteDeberiaCrearseConDatosIniciales(){
