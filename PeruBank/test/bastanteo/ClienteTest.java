@@ -9,6 +9,7 @@ public class ClienteTest {
 	String prueba2 = "Hola";
 	String prueba2 = "Hola34";
 	String prueba4 = "Hola34";
+	String prueba27 = "Hola34";
 	
 	@Test
 	public void clienteDeberiaCrearseConDatosIniciales(){
