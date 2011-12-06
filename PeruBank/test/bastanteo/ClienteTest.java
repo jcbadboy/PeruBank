@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class ClienteTest {
 
-	String prueba1 = "Hola";
+	String prueba2 = "Hola";
 	
 	@Test
 	public void clienteDeberiaCrearseConDatosIniciales(){
