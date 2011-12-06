@@ -6,10 +6,8 @@ import org.junit.Test;
 
 public class ClienteTest {
 
-	String prueba2 = "Hola";
-	String prueba2 = "Hola34";
-	String prueba4 = "Hola34";
-	String prueba27 = "Hola34";
+	//Modificaciones Luis Pedreros
+	Date fecha;
 	
 	@Test
 	public void clienteDeberiaCrearseConDatosIniciales(){
